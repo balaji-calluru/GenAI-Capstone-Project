@@ -19,7 +19,7 @@ I added Section 3 as an option for future enhancements, to continue to learn Gen
 
 Action Items.
 1) DONE - Start a GitHub repo, move the documents into the repo and share it with the team - https://github.com/balaji-calluru/GenAI-Capstone-Project
-2) TODO - Everyone on the team to review the Word document - https://github.com/balaji-calluru/GenAI-Capstone-Project/blob/main/docs/Smart%20Document%20QnA%20System%20-%20Project%20Kickoff.html
+2) TODO - Everyone on the team to review the Word document - https://github.com/balaji-calluru/GenAI-Capstone-Project/blob/main/docs/Smart%20Document%20QnA%20System.docx
 3) TODO - Next meeting is on Dec 8th at 6:00 pm EST. Please come prepared to ask any questions related to the design document. Also propose any alternates to the Technology stack
 
 Please share any comments in our WhatsApp group
